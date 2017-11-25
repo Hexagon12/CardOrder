@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1510653762 source:c:\mokiniu_darbai\ii\iia\kortos_vyr\kortos-vyr.cpp
+1510653762 source:/CardOrder.cpp
 	<iostream>
 	<fstream>
 	<string>
